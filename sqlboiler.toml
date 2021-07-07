@@ -1,0 +1,7 @@
+[psql]
+dbname = "sqlboiler"
+host   = "localhost"
+port   = 55432
+user   = "root"
+pass   = "sekret"
+sslmode= "disable"
